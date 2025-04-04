@@ -10,6 +10,8 @@
         "weapon",
         "knife",
         "knives",
+        "stab",
+        "stabbing",
         "working fire",
         "entrapment",
         "dead",
@@ -22,10 +24,12 @@
         "mayday",
         "bomb",
         "bombs",
+        "bombing",
         "explosive",
         "explosives",
         "terrorist",
         "terrorists",
+        "terrorism",
         "aggressive",
         "aggression",
         "suicidal",
@@ -34,6 +38,8 @@
         "structure collapsed",
         "structural collapse",
         "officer down",
-        "firefighter down"
+        "firefighter down",
+        "active shooter",
+        "sniper"
     ]
 }  
