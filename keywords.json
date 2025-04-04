@@ -15,6 +15,7 @@
         "explosion",
         "explosions",
         "hostage",
+        "evacuate",
         "evacuation",
         "mayday",
         "bomb",
@@ -26,6 +27,11 @@
         "aggressive",
         "aggression",
         "suicidal",
-        "homicidal"
+        "homicidal",
+        "structure collapse",
+        "structure collapsed",
+        "structural collapse",
+        "officer down",
+        "firefighter down"
     ]
 }  
