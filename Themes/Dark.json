@@ -1,0 +1,5 @@
+{
+    "container": "h-screen w-full bg-neutral-900 text-white p-4 overflow-y-scroll",
+    "input": "bg-neutral-800 text-white placeholder:text-white border-neutral-700 focus:ring-black",
+    "button": "bg-neutral-800 text-white hover:bg-neutral-700 border-neutral-700"
+}

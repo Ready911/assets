@@ -1,0 +1,5 @@
+{
+    "container": "h-screen w-full bg-white text-black p-4 overflow-y-scroll",
+    "input": "bg-gray-300 text-black placeholder:text-black border-gray-400 focus:ring-black",
+    "button": "bg-gray-300 text-black hover:bg-gray-400 border-gray-400"
+}

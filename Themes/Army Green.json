@@ -1,0 +1,5 @@
+{
+  "container": "h-screen w-full bg-[#2b2f23] text-[#e4e9dc] p-4 overflow-y-scroll",
+  "input": "bg-[#3c432e] text-[#e4e9dc] placeholder:text-[#b8c2a9] border-[#7a845f] focus:ring-[#7a845f]",
+  "button": "bg-[#3c432e] text-[#e4e9dc] hover:bg-[#7a845f] hover:text-black border-[#7a845f]"
+}
